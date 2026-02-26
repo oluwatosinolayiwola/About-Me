@@ -6,13 +6,13 @@ I have included data projects that showcase my technical skills as well as analy
 
 I enjoy solving real world probblems using data and continuously improving my analytical and technical skills.
 
-Resume: [Download CV] (./Oluwatosin Olayiwola- Data Analyst CV.pdf
+Resume: [Download CV] (./Oluwatosin Olayiwola- Data Analyst CV.pdf)
 
 ---
 
 ## Projects
 
-### Marketing Analytics Dashboard
+**Marketing Analytics Dashboard**
 **Objective:** Analyze marketing campaign performance across marketing channels. 
 
 **Actions** 
@@ -21,11 +21,11 @@ Resume: [Download CV] (./Oluwatosin Olayiwola- Data Analyst CV.pdf
 - Designed interactive KPI dashboards
 - Compared channedl performance and ROI
 
-**Impact**
+**Impact:**
 Provided insights into high performing channels and identified areas to optimize underperforming campaigns.
 
 
-### Sales Performance Analysis
+**Sales Performance Analysis**
 **Objective:** Analyze sales data to identify revenue trends, top performing products and key business drivers.
 
 **Tools Used:** Python (Pandas, Matplotlib), Excel
@@ -42,5 +42,5 @@ Provided actionable insights to support revenue optimization, pricing strategy a
 
 ---
 
-## Contact
+**Contact**
 Email: tosin.k.olayiwola@gmail.com
