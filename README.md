@@ -26,6 +26,8 @@ My CV: [Download CV](Oluwatosin Olayiwola- Data Analyst CV.pdf)
 Provided insights into high performing channels and identified areas to optimize underperforming campaigns.
 
 
+
+
 **Sales Performance Analysis**
 
 **Objective:** Analyze sales data to identify revenue trends, top performing products and key business drivers.
@@ -44,6 +46,6 @@ Provided actionable insights to support revenue optimization, pricing strategy a
 
 ---
 
-**Contact**
+## **Contact**
 
 Email: tosin.k.olayiwola@gmail.com
