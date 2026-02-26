@@ -4,10 +4,10 @@ Hi, I'm Oluwatosin, I am a data analyst with experience using various data tools
 
 I have included data projects that showcase my technical skills as well as analytical capability. You will find documents, reports and dashboards I have created using various data analytical tools. These projects demonstrate my ability to organize, analyze and present data in a clear and visually appealing way, making it easy for anyone to understand the insights and make informed decisions.
 
-I enjoy solving real world probblems using data and continously improving my analytical and technical skills.
+I enjoy solving real world probblems using data and continuously improving my analytical and technical skills.
 
-Resume: 
-Portfolio: https://oluwatosinolayiwola.my.canva.site/
+Resume: [Download CV] (./Oluwatosin Olayiwola- Data Analyst CV.pdf
+
 ---
 
 ## Projects
@@ -22,7 +22,8 @@ Portfolio: https://oluwatosinolayiwola.my.canva.site/
 - Compared channedl performance and ROI
 
 **Impact**
-Privided insights into high performing channels and identified areas to optimize underperforming campaigns.
+Provided insights into high performing channels and identified areas to optimize underperforming campaigns.
+
 
 ### Sales Performance Analysis
 **Objective:** Analyze sales data to identify revenue trends, top performing products and key business drivers.
@@ -37,7 +38,7 @@ Privided insights into high performing channels and identified areas to optimize
 - Visualized insights using charts
 
 **Impact**
-Provided actionale insights to support revenue optimization, pricing strategy and inventory planning.
+Provided actionable insights to support revenue optimization, pricing strategy and inventory planning.
 
 ---
 
