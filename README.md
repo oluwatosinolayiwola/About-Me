@@ -25,7 +25,8 @@ My CV: [Download CV](Oluwatosin_Olayiwola-Data_Analyst_CV.pdf)
 **Impact:**
 Provided insights into high performing channels and identified areas to optimize underperforming campaigns.
 
-###Sales Performance Analysis
+
+### Sales Performance Analysis
 
 **Objective:** Analyze sales data to identify revenue trends, top performing products and key business drivers.
 
@@ -40,8 +41,6 @@ Provided insights into high performing channels and identified areas to optimize
 
 **Impact:**
 Provided actionable insights to support revenue optimization, pricing strategy and inventory planning.
-
----
 
 ## **Contact**
 
